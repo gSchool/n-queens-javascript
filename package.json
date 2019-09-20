@@ -1,0 +1,22 @@
+{
+  "name": "n-queens-javascript",
+  "version": "1.0.0",
+  "description": "n queens code kata in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gSchool/n-queens-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gSchool/n-queens-javascript/issues"
+  },
+  "homepage": "https://github.com/gSchool/n-queens-javascript#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
